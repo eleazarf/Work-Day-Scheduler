@@ -8,7 +8,7 @@ A simple calendar application that allows a user to save events for each hour of
 
 
 ## Screenshots<br>
-./assets/images/Screen Shot 2023-07-13 at 10.58.03 PM.png<br>
+https://github.com/eleazarf/Work-Day-Scheduler/blob/main/assets/images/Screen%20Shot%202023-07-13%20at%2010.58.03%20PM.png<br>
 
 ## link to the project <br>
 https://eleazarf.github.io/Work-Day-Scheduler/<br>
